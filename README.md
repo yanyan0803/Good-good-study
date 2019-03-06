@@ -5,4 +5,4 @@ Good good study,day day up
 
 目标
 
-不会换行
+不会换行，要回车
